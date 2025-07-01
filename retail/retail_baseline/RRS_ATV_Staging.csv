@@ -1,6 +1,5 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 Exhibit01,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/042825_1.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit02,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/060225_2_Kayano32.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit03,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/122425prodimage3.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit04,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/042825_4.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit05,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/063025_Independence-Day.jpg,0:00:10,1:00:00,7/3/25 21:00,7/6/25 21:00,yes
+Exhibit02,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/122425prodimage3.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit03,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/042825_4.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit04,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/063025_Independence-Day.jpg,0:00:10,1:00:00,7/3/25 21:00,7/6/25 21:00,yes
