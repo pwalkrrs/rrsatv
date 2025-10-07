@@ -2,7 +2,6 @@ type,name,url,duration,trigger,start_date,end_date,start_time,end_time
 photo,Foot Finder,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/footfinder.jpg,,,,,,
 photo,VIP Rewards,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/viprewards.jpg,,,,,,
 photo,AHA,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/aha.jpg,,,,,,
-photo,On_Cloudsurfer_Max,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/On_Cloudsurfer_Max.jpg,,,,,,
 video,Korsa 25 Seasonal,https://filedn.com/l36hK5EOAYipe61FhSOka9B/Retail/BrightSign/Korsa25Seaonal.mp4,,,,,,
 video,AHA Celebration,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/AHACelebration.mp4,,AHA,,,,
 video,VIP Trigger,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/vip_4k.mp4,,WelcomeVIP,,,,
