@@ -2,6 +2,6 @@ type,name,url,duration,trigger,start_date,end_date,start_time,end_time
 photo,Foot Finder,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/footfinder.jpg,,,,,,
 photo,VIP Rewards,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/viprewards.jpg,,,,,,
 photo,AHA,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/aha.jpg,,,,,,
-photo,Holiday Gift Card,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Holiday_Gift-Card.jpg,,,,,,
+photo,Holiday Gift Card,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Holiday_Gift-Card.jpg,,,,2025-12-24,,21:00
 video,AHA Celebration,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/AHACelebration.mp4,,AHA,,,,
 video,VIP Trigger,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/vip_4k.mp4,,WelcomeVIP,,,,
