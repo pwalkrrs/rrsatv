@@ -2,5 +2,7 @@ type,name,url,duration,trigger,start_date,end_date,start_time,end_time
 photo,Foot Finder,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/footfinder.jpg,,,,,,
 photo,VIP Rewards,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/viprewards.jpg,,,,,,
 photo,AHA,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/aha.jpg,,,,,,
+photo,ASICS Nimbus 28,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/ASICS_Nimbus28.jpg,,,2026-01-09,2026-01-31,01:00,23:00
+photo,New Balance Brand Feature,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/New_Balance_BrandFeature.jpg,,,2026-01-01,2026-01-31,01:00,23:00
 video,AHA Celebration,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/AHACelebration.mp4,,AHA,,,,
 video,VIP Trigger,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/vip_4k.mp4,,WelcomeVIP,,,,
