@@ -2,6 +2,7 @@ type,name,url,duration,trigger,start_date,end_date,start_time,end_time
 photo,Foot Finder,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/footfinder.jpg,,,,,,
 photo,Brooks May Brand of Month,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Brooks_Ghost18.jpg,,,2026-05-01,2026-05-31,01:00,23:00
 photo,Adidas Evo SL Woven,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/AdizeroSLWoven.jpg,,,2026-05-01,2026-05-31,01:00,23:00
+photo,Altra May Launch Blitz,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/MayLaunchBlitz_Altra.jpg,,,2026-05-15,2026-05-29,01:00,23:00
 photo,Saucony May Retail Shoe Pedestal,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/MayRetailShoePedestal_Saucony.jpg,,,2026-05-01,2026-05-29,01:00,23:00
 photo,Adidas June Launch Blitz,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Adidas_June-LaunchBlitz.jpg,,,2026-06-01,2026-07-15,01:00,23:00
 video,AHA Celebration,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/AHACelebration.mp4,,AHA,,,,
