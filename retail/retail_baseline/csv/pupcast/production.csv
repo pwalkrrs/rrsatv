@@ -1,5 +1,6 @@
 type,name,url,duration,trigger,start_date,end_date,start_time,end_time
 photo,Foot Finder,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/footfinder.jpg,,,,,,
+photo,Saucony June Brand of Month,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Saucony_Triumph_24.jpg,,,2026-06-01,,01:00,23:00
 photo,Brooks May Brand of Month,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Brooks_Ghost18.jpg,,,2026-05-01,2026-05-31,01:00,23:00
 photo,Adidas Evo SL Woven,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/AdizeroSLWoven.jpg,,,2026-05-01,2026-06-30,01:00,23:00
 photo,ASICS Kayano 33,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Asics_Kayano_33.jpg,,,2026-06-01,,01:00,23:00
