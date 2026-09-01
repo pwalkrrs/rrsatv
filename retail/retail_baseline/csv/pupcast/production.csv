@@ -1,6 +1,8 @@
 type,name,url,duration,trigger,start_date,end_date,start_time,end_time
 photo,Foot Finder,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/footfinder.jpg,,,,,,
-photo,August Retail Shoe Table Altra,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/AugustRetailShoeTable_Altra.jpg,,,2026-08-01,2026-08-17,01:00,23:00
+photo,Labor Day,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/LaborDay_2026.jpg,,,2026-09-04,2026-09-07,01:00,23:00
+photo,Sept Brand of Month ASICS,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/September-Brand-of-Month_ASICS.jpg,,,,2026-09-29,,23:00
+photo,Sept Retail Shoe Pedestal Adidas,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Sept_Retail-Shoe-Pedestal_ADIDAS.jpg,,,,2026-09-29,,23:00
 video,Come Run With Us,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/media/Come-run-with-us_Video.mp4,,,,,,
 video,AHA Celebration,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/AHACelebration.mp4,,AHA,,,,
 video,VIP Trigger,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/files/trigger_media/vip_4k.mp4,,WelcomeVIP,,,,
